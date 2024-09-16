@@ -73,8 +73,3 @@ See below.
 
 ### OK, Firebase settings finished.
 
-# 3.Let's send push notification
-## Send firebase cloud messaging from your server or your computer using client library.
-
-### See below.
-https://github.com/riversun/java-firebase-fcm-client
